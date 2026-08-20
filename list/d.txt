@@ -1,0 +1,10 @@
+!
+! Title: MonkDONTGO
+! Description: que les den
+! Homepage: http://192.168.0.50/Movies/.thumbnails/_extra_/bloquemonk.TXT 
+! Version: 30 May 2026
+! Syntax: AdBlock
+!#monk
+||doubleclick.net^
+||googleads.g.doubleclick.net^
+||adclick.g.doubleclick.net^

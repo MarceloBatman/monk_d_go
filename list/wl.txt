@@ -1,0 +1,9 @@
+user_rules:
+  - '@@||local^'
+  - '@@||lan^'
+  - '@@||home^'
+  - '@@||internal^'
+  - '@@||portainer.io^'
+  - '@@||docker.io^'
+  - '@@||github.com^'
+  - '@@||githubusercontent.com^'
